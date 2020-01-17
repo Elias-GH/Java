@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"store.business.GUI","l":"affichage"},{"p":"store.business.util","l":"Client"},{"p":"store.business.util","l":"ErreurOuvertureXML"},{"p":"store.business.util","l":"Produit"},{"p":"store.business.util","l":"Transaction"}]

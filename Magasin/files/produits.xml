@@ -1,0 +1,72 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Produit>
+
+	<livres>
+	
+  <Nom name = "Petit Pays">
+  <Prix>7€20</Prix>
+  <auteur>Gaël Faye</auteur>
+  <langue>Français</langue>
+  <taille>200</taille>
+  <Identifiant>1</Identifiant>
+  <nombre>50</nombre>
+  <description> Livre Petit Pays de Gaël Faye</description>
+  </Nom>
+  
+  <Nom name= "Vipère au poing">
+  <Prix>4€60</Prix>
+  <auteur>Hervé Bazin</auteur>
+  <langue>Français</langue>
+  <taille>300</taille>
+  <Identifiant>2</Identifiant>
+  <nombre>50</nombre>
+  <description> Livre vipère au poing de Hervé Bazin</description>
+  </Nom>
+  
+  </livres>
+  
+  <Jeux-vidéos>
+  
+	<Nom name="Borderlands 3">
+	<Genre>multi-joueurs</Genre>
+	<plateforme>Playstation,XBOX,PC</plateforme>
+	<Identifiant>3</Identifiant>
+	<Nombre>50</Nombre>
+	<description>Jeu-vidéo Borderlands 3 </description>
+	</Nom>
+	
+	<Nom name ="Call of duty">
+	<Genre>multi-joueurs</Genre>
+	<plateforme>Playstation,XBOX,PC</plateforme>
+	<Identifiant>4</Identifiant>
+	<Nombre>50</Nombre>
+	<description>Jeu-vidéo Call of duty</description>
+	</Nom>
+	
+  </Jeux-vidéos>
+  
+  
+   <DVDs>
+  
+	<Nom name="The dark knight rises">
+	<Acteurs>Christian Bale, Anne Hathaway, Tom Hardy</Acteurs>
+	<genre>Thriller/Action</genre>
+	<durée>165</durée>
+	<Identifiant>5</Identifiant>
+	<Nombre>50</Nombre>
+	<description>DVD The dark knight rises</description>
+	</Nom>
+	
+	<Nom name="Man of Steel">
+	<Acteurs>Henry Cavil, Amy Adams, Michael Shannon</Acteurs>
+	<genre>Action</genre>
+	<durée>143</durée>
+	<Identifiant>6</Identifiant>
+	<Nombre>50</Nombre>
+	<description>DVD Man of Steel</description>
+	</Nom>
+	
+  </DVDs>
+  
+</Produit>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<client>
+                                                                                                                                                            
+
+    
+    <Test>
+                
+        <id>1</id>
+                
+        <prenom>a</prenom>
+                
+        <adresse>b</adresse>
+            
+    </Test>
+    
+    <k>
+        <id>2</id>
+        <prenom>e</prenom>
+        <adresse>c</adresse>
+    </k>
+</client>
